@@ -1,6 +1,6 @@
 cask "wavelogmoat" do
   version "0.1.0"
-  sha256 :no_check # TODO: Replace with actual SHA256 of the DMG once first release is published
+  sha256 "77574b0fbaa697480541e552abb440f46aba9c9ab530f6f6a4a8bb79d2024c15"
 
   url "https://github.com/dl5mn/WaveLogMoat/releases/download/v#{version}/WaveLogMoat-v#{version}.dmg"
   name "WaveLogMoat"
