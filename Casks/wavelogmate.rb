@@ -1,6 +1,6 @@
 cask "wavelogmate" do
-  version "1.2.1"
-  sha256 "f0110dd2bac40097988df7434c9a731736df576089c271ce783559a33e15e53b"
+  version "1.2.2"
+  sha256 "a315a7bd89a7fb2f23a76bc2b7973b29c3e922597ca95baf890a57a6b2e9c2a0"
 
   url "https://github.com/dl5mn/WaveLogMate/releases/download/v#{version}/WaveLogMate-v#{version}.dmg"
   name "WaveLogMate"
